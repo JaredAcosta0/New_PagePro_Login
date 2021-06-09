@@ -1,0 +1,24 @@
+.cont{margin:0 15%;}
+.btn{background-color: #00000052;}
+.btn:hover{background-color: #000000;}
+nav{background-color: #00000049;}
+.waves-effect{margin-top:3rem;}
+.bots{
+    display: flex;
+    justify-content: space-around;
+}
+.formulario{margin-top:3rem;}
+body{
+  background-color: #151515;
+  text-decoration: #ffffff;
+}
+input{
+  color:#ffffff;
+}
+.seccion3{color:darkgray}
+.card .card-image img{height: 15rem;}
+.card .card-content{margin-bottom: 5.5%;
+}
+.container{
+  color:#fff;
+}

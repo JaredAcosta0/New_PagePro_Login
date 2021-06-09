@@ -1,0 +1,16 @@
+.piedra{
+  width: 114%;
+}
+.tijeras{
+  width: 80%;
+}
+
+.btn{
+  background: rgba(0, 0, 153, 0);
+  width: 200px; 
+  height: 200px;
+}
+.space{
+  display: flex;
+  justify-content: space-between;
+}
